@@ -13,10 +13,10 @@ function App() {
   return (
     <div>
       <Profile></Profile>
-      <CurrentProjects></CurrentProjects>
+      {/* <CurrentProjects></CurrentProjects> */}
       <Projects></Projects>
-      <HireMe></HireMe>
       <Clients></Clients>
+      <HireMe></HireMe>
       <Skills></Skills>
     </div>
   )
